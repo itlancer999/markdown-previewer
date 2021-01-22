@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Check the site preview here:
 
-https://github.com/itlancer999/markdown-previewer
+https://markdown-previeweritlancer.netlify.app/
 
 
 ## Available Scripts
